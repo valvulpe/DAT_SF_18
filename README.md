@@ -8,7 +8,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 - Holidays (no class): 11/26 (Thanksgiving), 12/21 - 1/1 (winter break) 
 - Location: 225 Bush Street, Classroom 4
 - Instructor: [Francesco Mosconi](https://www.linkedin.com/in/framosconis)
-- Expert-in-Residence:  [Dylan Hercher](https://www.linkedin.com/pub/dylan-hercher/30/478/1b6)
+- Expert-in-Residence:
+ [Dylan Hercher](https://www.linkedin.com/pub/dylan-hercher/30/478/1b6), [Otto Stegmaier](https://www.linkedin.com/pub/otto-stegmaier/a3/a3/594)
 
 
 
@@ -43,7 +44,7 @@ Week | Tuesday                                             | Thursday
 
 HW       | Topics                           | Dataset | Assigned | Due   | Review Due
 ---      | ---                              | ---     | ---      | ---   | ---
-1        | [Github setup](homework/HW1_assignment.pdf)                    |         | 7/29     |  8/3  |  8/5
+1        | [Github setup](homework/HW1_assignment.pdf)                    |         | 10/29     |  11/3  |  11/5
 
 ### Final Project Milestones
 
@@ -52,6 +53,7 @@ HW       | Topics                           | Dataset | Assigned | Due   | Revie
 Instructor  | Times                  | Available method
 ---         | ---                    | ---
 Dylan       | |
+Otto        | Tuesday 5:30pm -6:30pm | Classroom 4 or slack
 Francesco   | Tuesday & Thursday     | slack (quickest response) or hangouts by appointment
 
 ### Slack
