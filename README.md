@@ -43,13 +43,12 @@ Week | Tuesday                                             | Thursday
  4   | 11/17: [Regression and Regularization](lectures/lec07.pdf) | 11/19 [Logistic Regression](lectures/lec08.pdf)
  5   | 11/24: [Imbalanced Classes and Evaluation Metrics](lectures/lec09.pdf)     | 11/26: Thanksgiving -- No Class
  6   | 11/31: [Decision Trees](lectures/lec10.pdf) | 12/01: [Support Vector Machines](lectures/lec11.pdf)
- 7   | 12/01: 
- [Ensemble Techniques](lectures/lec12.pdf)                           | 12/03: [Review of Supervised Learning](lectures/lec13.pdf)
+ 7   | 12/01: [Ensemble Techniques](lectures/lec12.pdf)                           | 12/03: [Review of Supervised Learning](lectures/lec13.pdf)
  8   | 12/08: [K-Means Clustering and Unsupervised learning](lectures/lec14.pdf) | 12/10: [Dimensionality Reduction](lectures/lec15.pdf)
- 9   | 12/15: [Recommendation systems](lectures/lec16.pdf)     | 12/17: [Natural Language Processing and Text Mining](lectures/lec17.pdf) | 12/17: [Database Technologies](lectures/lec18.pdf)
- 10  | 01/05: [Map Reduce](lectures/lec19.pdf)             | 01/07: [Data Products](lectures/lec20.pdf)
- 11  | 01/12: Final Project Work session | 01/11: Final project presentations
- 12  | 01/17: Final project
+ 9   | 12/15: [Recommendation systems](lectures/lec16.pdf)     | 12/17: [Natural Language Processing and Text Mining](lectures/lec17.pdf)
+ 10  | 01/05: [Database Technologies](lectures/lec18.pdf)            | 01/07: [[Map Reduce](lectures/lec19.pdf)
+ 11  | 01/12: [Data Products](lectures/lec20.pdf) | 01/11: Final Project Work session
+ 12  | 01/17: Final project presentations
 
 
 
