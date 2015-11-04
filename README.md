@@ -46,7 +46,7 @@ Week | Tuesday                                             | Thursday
  7   | 12/01: [Ensemble Techniques](lectures/lec12.pdf)                           | 12/03: [Review of Supervised Learning](lectures/lec13.pdf)
  8   | 12/08: [K-Means Clustering and Unsupervised learning](lectures/lec14.pdf) | 12/10: [Dimensionality Reduction](lectures/lec15.pdf)
  9   | 12/15: [Recommendation systems](lectures/lec16.pdf)     | 12/17: [Natural Language Processing and Text Mining](lectures/lec17.pdf)
- 10  | 01/05: [Database Technologies](lectures/lec18.pdf)            | 01/07: [[Map Reduce](lectures/lec19.pdf)
+ 10  | 01/05: [Database Technologies](lectures/lec18.pdf)            | 01/07: [Map Reduce](lectures/lec19.pdf)
  11  | 01/12: [Data Products](lectures/lec20.pdf) | 01/11: Final Project Work session
  12  | 01/17: Final project presentations
 
