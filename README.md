@@ -1,6 +1,6 @@
 # DAT_SF_18
 
-Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/san-francisco) in San Francisco (10/27/15 - 1/17/16).
+Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/san-francisco) in San Francisco (10/27/15 - 1/26/16).
 
 ### Logistics
 
