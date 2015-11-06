@@ -6,8 +6,7 @@ Every day in class, we are going to be interacting with git - and if you do thin
 --------
 ##### Starting From Scratch (steps below, followed by code)
 * Fork the Class Repo (on github) 
-	![Alt text](https://liftopia.box.com/shared/static/9uf1pi1jt41zvbyx80ij2oc9i34syf13.png "Optional title")
-
+		![Alt text](https://liftopia.box.com/shared/static/9uf1pi1jt41zvbyx80ij2oc9i34syf13.png "Optional title")
 * Clone your repo
 * Add the instructor remote
 * Check Status
