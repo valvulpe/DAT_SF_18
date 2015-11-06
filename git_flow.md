@@ -5,7 +5,12 @@ Every day in class, we are going to be interacting with git - and if you do thin
 
 --------
 ##### Starting From Scratch (steps below, followed by code)
-* Fork the Class Repo
+* Fork the Class Repo 
+```sh
+    (on Github)
+```
+
+* Clone your repo
 * Add the instructor remote
 * Check Status
 
