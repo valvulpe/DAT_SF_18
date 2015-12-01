@@ -43,7 +43,7 @@ Week | Tuesday                                             | Thursday
  3   | 11/10: [Introduction to Machine Learning, Regression](lectures/lec05.pdf)      | 11/12: [Cross Validation and Naïve Bayes](lectures/lec06.pdf)
  4   | 11/17: [Regression and Regularization](lectures/lec07.pdf) | 11/19 [Logistic Regression](lectures/lec08.pdf)
  5   | 11/24: [Imbalanced Classes and Evaluation Metrics](lectures/lec09.pdf)     | 11/26: Thanksgiving -- No Class
- 6   | 12/01: [Decision Trees](lectures/lec10.pdf) | 12/03: [Support Vector Machines](lectures/lec11.pdf)
+ 6   | 12/01: [Support Vector Machines](lectures/lec10.pdf) | 12/03: [Decision Trees](lectures/lec11.pdf)
  7   | 12/08: [Ensemble Techniques](lectures/lec12.pdf)                           | 12/10: [Review of Supervised Learning](lectures/lec13.pdf)
  8   | 12/15: [K-Means Clustering and Unsupervised learning](lectures/lec14.pdf) | 12/17: [Dimensionality Reduction](lectures/lec15.pdf)
  9   | 01/05: [Recommendation systems](lectures/lec16.pdf)     | 01/07: [Natural Language Processing and Text Mining](lectures/lec17.pdf)
