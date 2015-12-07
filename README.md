@@ -52,15 +52,14 @@ Week | Tuesday                                             | Thursday
  12  | 01/26: Final project presentations
 
 
-
-
-### Homework Schedule
-
-HW       | Topics                           | Dataset | Assigned | Due   | Review Due
----      | ---                              | ---     | ---      | ---   | ---
-1        | [Github setup](homework/HW1_assignment.pdf)                    |         | 10/29     |  11/3  |  11/5
-
 ### Final Project Milestones
+
+Final Project Milestones
+
+FP  Deliverable Due
+1   Elevator Pitch & Data Sources    12/10
+2   Draft Analysis  01/05
+3   Final Project Due   01/26
 
 ### Office Hours
 
