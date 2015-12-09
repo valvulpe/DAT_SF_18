@@ -12,7 +12,6 @@ Course materials for [General Assembly's Data Science course](https://generalass
  [Dylan Hercher](https://www.linkedin.com/pub/dylan-hercher/30/478/1b6), [Otto Stegmaier](https://www.linkedin.com/pub/otto-stegmaier/a3/a3/594)
 
 
-
 ### Course Description
 Foundational course in data science, including machine learning theory, case studies and real-world examples, introduction to various modeling techniques, and other tools to make predictions and decisions about data. Students will gain practical computational experience by running machine learning algorithms and learning how to choose the best and most representative data models to make predictions. Students will be using [Python](https://www.python.org/) throughout this course.
 
